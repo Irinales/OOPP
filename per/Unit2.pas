@@ -25,7 +25,7 @@ implementation
 
 procedure TForm2.BitBtn1Click(Sender: TObject);
 begin
-//
+close;
 end;
 
 end.
